@@ -1,0 +1,11 @@
+BrainLink View-Only License v1.0
+================================
+
+Permission is granted to view the files in this repository for educational or reference purposes only.
+
+You may NOT:
+- Clone, fork, or download the repository.
+- Modify or redistribute any portion of the contents.
+- Use the code or assets in any project, public or private, without explicit written permission.
+
+All rights reserved © 2025 Jacob (WhereIsKarlson).
