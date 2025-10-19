@@ -1,5 +1,5 @@
-BrainLink View-Only License v1.0
-================================
+Project: MECHAView-Only License v1.0
+====================================
 
 Permission is granted to view the files in this repository for educational or reference purposes only.
 
